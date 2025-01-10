@@ -12,7 +12,15 @@
 ## 🌟 **About Me**  
 - 🌍 An explorer who enjoys tackling challenges and building innovative solutions.  
 - ✨ Driven by curiosity and a passion for gaining diverse experiences.  
-- 📚 Always striving to learn new technologies and skills to elevate my craft.  
+- 📚 Always striving to learn new technologies and skills to elevate my craft.
+
+---
+
+## 🌐 **Check Out My Portfolio!**  
+✨ **[Click here to visit my portfolio 🚀](https://rykkux.github.io)**  
+> 🌟 Explore my projects, skills, and achievements in one dynamic space!  
+
+![Portfolio Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
 ---
 
