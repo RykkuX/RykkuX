@@ -20,7 +20,7 @@
 ✨ **[Click here to visit my portfolio 🚀](https://rykkux.github.io)**  
 > 🌟 Explore my projects, skills, and achievements in one dynamic space!  
 
-![Portfolio Animation]("https://giphy.com/embed/c1ONA4xHFeAWU4ww1K")  
+![Portfolio Animation]("https://media.giphy.com/media/GcJSBe6fWV29704b8i/giphy.gif?cid=ecf05e478005rkxkg22rvdf1rgdua4p4zzmj3jdm7niz5btz&ep=v1_gifs_search&rid=giphy.gif&ct=g")  
 
 ---
 
