@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **John Llyco M. Sauza**
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36CFFC&width=435&lines=Computer+Scientist+%7C+Software+Engineer;Data+Analyst+%7C+DevOps+Engineer;Passionate+Problem+Solver+%7C+Builder+at+Heart)  
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36CFFC&width=435&lines=Computer+Scientist;Software+Engineer;Data+Analyst;DevOps+Engineer;Passionate+Problem+Solver;Creator+at+Heart)  
 
 🎓 **Bachelor of Science in Computer Science** graduate from **Iloilo Science and Technology University**.  
 
