@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 **Check Out My Portfolio!**  
-✨ **[Click here to visit my portfolio 🚀](rykkux.project-ag.org)**  
+✨ **[Click here to visit my portfolio 🚀](https://rykkux.project-ag.org/)**  
 > 🌟 Explore my projects, skills, and achievements in one dynamic space!  
 
 ![Portfolio Animation](https://media.giphy.com/media/GcJSBe6fWV29704b8i/giphy.gif)  
